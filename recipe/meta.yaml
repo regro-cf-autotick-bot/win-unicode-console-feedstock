@@ -34,7 +34,7 @@ about:
 
   description: |
     When running Python in the standard console on Windows, there are several problems when one tries to
-    enter or display Unicode characters. This package solves some of them.
+    enter or display Unicode characters. win-unicode-console package solves some of them.
   dev_url: https://github.com/Drekin/win-unicode-console
 
 extra:
